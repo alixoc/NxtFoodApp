@@ -3,44 +3,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 
-const kitchenData = [
-  {
-    id: 1,
-    name: "Zalmis Kitchen",
-    title: "Authentic homemade flavors from Peshawar",
-    image: "zalmikitchen.jpg",
-  },
-  {
-    id: 2,
-    name: "Aishas Kitchen",
-    title: "Delicious family meals made with love",
-    image: "aishakitchn.png",
-  },
-  {
-    id: 3,
-    name: "Grandmas Kitchen",
-    title: "Classic recipes just like grandma made",
-    image: "grandmaskitchen.jpg",
-  },
-  {
-    id: 4,
-    name: "Yumas Kitchenette",
-    title: "Tasty treats fresh from the stove",
-    image: "yumaskithcen.png",
-  },
-  {
-    id: 5,
-    name: "Yummy Yard",
-    title: "Serving joy with every single bite",
-    image: "yummyyard.jpg",
-  },
-  {
-    id: 6,
-    name: "Mamas Kitchen",
-    title: "Wholesome comfort food made daily",
-    image: "mamasktichen.jpg",
-  },
-];
+
 
 function Downpage() {
   const settings = {
@@ -78,6 +41,45 @@ function Downpage() {
     ]
   };
 
+  const kitchenData = [
+    {
+      id: 1,
+      name: "Zalmis Kitchen",
+      title: "Authentic homemade flavors from Peshawar",
+      image: "zalmikitchen.jpg",
+    },
+    {
+      id: 2,
+      name: "Aishas Kitchen",
+      title: "Delicious family meals made with love",
+      image: "aishakitchn.png",
+    },
+    {
+      id: 3,
+      name: "Grandmas Kitchen",
+      title: "Classic recipes just like grandma made",
+      image: "grandmaskitchen.jpg",
+    },
+    {
+      id: 4,
+      name: "Yumas Kitchenette",
+      title: "Tasty treats fresh from the stove",
+      image: "yumaskithcen.png",
+    },
+    {
+      id: 5,
+      name: "Yummy Yard",
+      title: "Serving joy with every single bite",
+      image: "yummyyard.jpg",
+    },
+    {
+      id: 6,
+      name: "Mamas Kitchen",
+      title: "Wholesome comfort food made daily",
+      image: "mamasktichen.jpg",
+    },
+  ];
+  
   return (
     <div className="pl-20 pt-32 px-4 py-8 h-full">
       <div className="pb-20">

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Zalmis Kitchen",
+      "title": "Authentic homemade flavors from Peshawar",
+      "image": "zalmikitchen.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Aishas Kitchen",
+      "title": "Delicious family meals made with love",
+      "image": "aishakitchn.png"
+    },
+    {
+      "id": 3,
+      "name": "Grandmas Kitchen",
+      "title": "Classic recipes just like grandma made",
+      "image": "grandmaskitchen.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yumas Kitchenette",
+      "title": "Tasty treats fresh from the stove",
+      "image": "yumaskithcen.png"
+    },
+    {
+      "id": 5,
+      "name": "Yummy Yard",
+      "title": "Serving joy with every single bite",
+      "image": "yummyyard.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mamas Kitchen",
+      "title": "Wholesome comfort food made daily",
+      "image": "mamasktichen.jpg"
+    }
+  ]
+  
